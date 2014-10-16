@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aew:home|Door43 (aew)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aew|d43-aew repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aew/archive/master.zip|d43-aew.zip]]
+
+**Recent Changes**
+{{changes>ns = aew}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aew|Ethnologue data]]
+
